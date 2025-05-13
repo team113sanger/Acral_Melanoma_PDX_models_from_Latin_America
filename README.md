@@ -2,7 +2,7 @@
 
 This repository serves as the central landing page for multiple sub-analyses related to the manuscript:
 
-> **_Acral Melanoma - PDX models from Latin America_**
+> **_Comprehensive molecular and functional characterization of brazilian acral melanoma reveals aberrant genetic landscape and therapeutic vulnerabilities_**
 
 The analyses were conducted by several authors in the Possik, Robles-Espinoza and Adams groups. Each sub-analysis repository linked below contains its own **README.md** with details of the methods, code, and data required for reproducing the results. Large files and figures from the paper can be accessed at the corresponding [FigShare for the project]()
 
