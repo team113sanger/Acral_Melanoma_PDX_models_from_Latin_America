@@ -14,6 +14,20 @@ unzip bundle.zip
 
 ## Project Overview
 
+| Sub-analysis | Authors | Links | Checklist? |
+|--------------|---------|---------|--------|
+| MesKit analysis of acral melanoma  samples | (<jb62@sanger.ac.uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_MesKit) [Zenodo DOI](#) | [ ] | 
+
+## Author checklist
+As the author of a sub-analysis, I have checked the following:
+[ ] a README.md with a short description of the analysis
+[ ] a README.md which explains how to run my scripts
+[ ] a README.md which explains how I install dependencies (if _renv_ or _poetry_, a link to their documentation)
+[ ] a README.md that explains something about my **input data** (what directory? or if figshare, a link?)
+[ ] an APGL3 LICENSE file
+
+## Project Overview (old format)
+
 The sub-analyses of the project, authors who performed them and repositories they correspond to are:  
 - Transcriptome analysis of PDX models from Latin America: `PDX_models_from_Latin_America_RNAseq` [![DOI](https://zenodo.org/badge/MYPAPER.svg)](https://doi.org/) (mdc1@sanger.ac.uk)
 - Somatic calling of SNVs, MNVs,and INDELs from WES of PDX models from Latin America: `PDX_models_from_Latin_America_WES` [![DOI](https://zenodo.org/badge/MYPAPER.svg)](https://doi.org/) (mdc1@sanger.ac.uk) 
