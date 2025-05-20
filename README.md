@@ -23,7 +23,7 @@ The sub-analyses of the project, authors who performed them and repositories the
 - Antonio Facciolo (<af31@sanger.ac.uk>)
 - Patricia Basurto Lozada (<pbasurto@liigh.unam.mx>)
 - Martin Del Castillo Velasco-Herrera (<mdc1@sanger.ac.uk>)
-- Jesús René Wong (<>)
+- Jesús René Wong (<rene.wong@helsinki.fi>)
 - Jacqueline Boccacino (<jb62@sanger.ac.uk>)
 - David J Adams (<da1@sanger.ac.uk>)
 - Carla Daniela Robles-Espinoza(<drobles@liigh.unam.mx>)
