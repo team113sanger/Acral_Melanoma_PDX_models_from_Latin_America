@@ -14,9 +14,9 @@ unzip bundle.zip
 
 ## Project Overview
 
-| Sub-analysis | Authors | Links | Checklist? |
-|--------------|---------|---------|--------|
-| MesKit analysis of acral melanoma  samples | (<jb62@sanger.ac.uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_MesKit) [Zenodo DOI Badge](#) | [ ] | 
+| Sub-analysis | Directory | Authors | Links | Checklist? |
+|--------------|-----------|---------|-------|------------|
+| MesKit analysis of acral melanoma  samples | `MesKit` |(<jb62@sanger.ac.uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_MesKit) [Zenodo DOI Badge](#) | ❌ |
 
 ## Author checklist
 As the author of a sub-analysis, I have checked the following:
