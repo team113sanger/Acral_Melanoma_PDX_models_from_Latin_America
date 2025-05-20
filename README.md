@@ -16,7 +16,7 @@ unzip bundle.zip
 
 | Sub-analysis | Authors | Links | Checklist? |
 |--------------|---------|---------|--------|
-| MesKit analysis of acral melanoma  samples | (<jb62@sanger.ac.uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_MesKit) [Zenodo DOI](#) | [ ] | 
+| MesKit analysis of acral melanoma  samples | (<jb62@sanger.ac.uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_MesKit) [Zenodo DOI Badge](#) | [ ] | 
 
 ## Author checklist
 As the author of a sub-analysis, I have checked the following:
@@ -25,6 +25,8 @@ As the author of a sub-analysis, I have checked the following:
 [ ] a README.md which explains how I install dependencies (if _renv_ or _poetry_, a link to their documentation)
 [ ] a README.md that explains something about my **input data** (what directory? or if figshare, a link?)
 [ ] an APGL3 LICENSE file
+[ ] a tag for my repository (e.g. `1.0.0`)
+[ ] a Zenodo DOI and badge
 
 ## Project Overview (old format)
 
