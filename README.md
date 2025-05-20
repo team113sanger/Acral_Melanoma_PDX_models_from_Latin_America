@@ -20,19 +20,19 @@ unzip bundle.zip
 
 ## Author checklist
 As the author of a sub-analysis, I have checked the following:
-[ ] a README.md with a short description of the analysis
-[ ] a README.md which explains how to run my scripts
-[ ] a README.md which explains how I install dependencies (if _renv_ or _poetry_, a link to their documentation)
-[ ] a README.md that explains something about my **input data** (what directory? or if figshare, a link?)
-[ ] an APGL3 LICENSE file
-[ ] a tag for my repository (e.g. `1.0.0`)
-[ ] a Zenodo DOI and badge
+- [ ] a README.md with a short description of the analysis
+- [ ] a README.md which explains how to run my scripts
+- [ ] a README.md which explains how I install dependencies (if _renv_ or _poetry_, a link to their documentation)
+- [ ] a README.md that explains something about my **input data** (what directory? or if figshare, a link?)
+- [ ] an APGL3 LICENSE file
+- [ ] a tag for my repository (e.g. `1.0.0`)
+- [ ] a Zenodo DOI and badge
 
 ## Project Overview (old format)
 
-The sub-analyses of the project, authors who performed them and repositories they correspond to are:  
-- Transcriptome analysis of PDX models from Latin America: `PDX_models_from_Latin_America_RNAseq` [![DOI](https://zenodo.org/badge/MYPAPER.svg)](https://doi.org/) (mdc1@sanger.ac.uk)
-- Somatic calling of SNVs, MNVs,and INDELs from WES of PDX models from Latin America: `PDX_models_from_Latin_America_WES` [![DOI](https://zenodo.org/badge/MYPAPER.svg)](https://doi.org/) (mdc1@sanger.ac.uk) 
+~~The sub-analyses of the project, authors who performed them and repositories they correspond to are:~~  
+- ~~Transcriptome analysis of PDX models from Latin America: `PDX_models_from_Latin_America_RNAseq` [![DOI](https://zenodo.org/badge/MYPAPER.svg)](https://doi.org/) (mdc1@sanger.ac.uk) ~~
+- ~~Somatic calling of SNVs, MNVs,and INDELs from WES of PDX models from Latin America: `PDX_models_from_Latin_America_WES` [![DOI](https://zenodo.org/badge/MYPAPER.svg)](https://doi.org/) (mdc1@sanger.ac.uk) ~~
 
 ## Contact 
 - Annie Cristhine Sousa Squiavinato (<as81@sanger.ac.uk>)
