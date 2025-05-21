@@ -17,6 +17,9 @@ unzip bundle.zip
 | Sub-analysis | Directory | Authors | Links | Checklist? |
 |--------------|-----------|---------|-------|------------|
 | MesKit analysis of acral melanoma  samples | `MesKit` |(<jb62@sanger.ac.uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_MesKit) [Zenodo DOI Badge](#) | ❌ |
+| Genomic hailstorm analysis of acral melanoma samples | `Hailstorm` | (<af31@sanger.ac.uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_Hailstorm) [Zenodo DOI Badge](#) | ❌ |
+
+
 
 ## Author checklist
 As the author of a sub-analysis, I have checked the following:
@@ -24,9 +27,12 @@ As the author of a sub-analysis, I have checked the following:
 - [ ] a README.md which explains how to run my scripts
 - [ ] a README.md which explains how I install dependencies (if _renv_ or _poetry_, a link to their documentation)
 - [ ] a README.md that explains something about my **input data** (what directory? or if figshare, a link?)
+- [ ] a repository without licensed data (e.g. nothing from COSMIC)
 - [ ] an APGL3 LICENSE file
 - [ ] a tag for my repository (e.g. `1.0.0`)
 - [ ] a Zenodo DOI and badge
+
+See [Checklist Google Sheet](https://docs.google.com/spreadsheets/d/1UMCJjRy7vWmuTq3qGdkLeqAc6xG7Co7YrJq9wKTADXU/edit?gid=0#gid=0) for more tracking progress.
 
 ## Project Overview (old format)
 

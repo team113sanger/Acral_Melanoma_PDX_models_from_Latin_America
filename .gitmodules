@@ -1,3 +1,6 @@
 [submodule "MesKit"]
 	path = MesKit
 	url = https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_MesKit.git
+[submodule "Hailstorm"]
+	path = Hailstorm
+	url = https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_Hailstorm.git
