@@ -16,11 +16,13 @@ unzip bundle.zip
 
 | Sub-analysis | Directory | Authors | Links | Checklist? |
 |--------------|-----------|---------|-------|------------|
-| MesKit analysis of acral melanoma  samples | `MesKit` |(<jb62@sanger.ac.uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_MesKit) [Zenodo DOI Badge](#) | ❌ |
+| MesKit analysis of acral melanoma samples | `MesKit` |(<jb62@sanger.ac.uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_MesKit) [Zenodo DOI Badge](#) | ❌ |
 | Genomic hailstorm analysis of acral melanoma samples | `Hailstorm` | (<af31@sanger.ac.uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_Hailstorm) [Zenodo DOI Badge](#) | ❌ |
 | Molecular and functional profiling of acral melanoma samples | `Heatmap_figures` | (<af31@sanger.ac.uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_Heatmap_Figures) [Zenodo DOI Badge](#) | ❌ |
-| Filtering, processing, counting and QC analysis of the RNAseq sequencing data | `RNAseq` | (<mdc1@sanger.ac.uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_RNAseq) [Zenodo DOI Badge](#) | ❌ |
-| Filtering, processing, counting and QC analysis of the WES DNA sequencing data | `WES` | (<mdc1@sanger.ac.uk>) <jb62@sanger.ac.uk> | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_WES) [Zenodo DOI Badge](#) | ❌ |
+| Filtering, processing, counting and QC analysis of the transcriptome sequencing data | `RNAseq` | (<mdc1@sanger.ac.uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_RNAseq) [Zenodo DOI Badge](#) | ❌ |
+| Somatic calling of SNVs, MNVs,and INDELs from WES DNA sequencing data | `WES` | (<mdc1@sanger.ac.uk>) <jb62@sanger.ac.uk> | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_WES) [Zenodo DOI Badge](#) | ❌ |
+| DepMap analysis of acral melanoma samples | `DepMap` | (<rf17@sanger.ac.uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_DepMap) [Zenodo DOI Badge](#) | ❌ |
+| Multiple different analyses of acral melanoma samples | `Multiple_analyses` | (<as81@sanger.ac.uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_mixed_analyses) [Zenodo DOI Badge](#) | ❌ |
 
 
 ## Author checklist
@@ -49,6 +51,7 @@ See [Checklist Google Sheet](https://docs.google.com/spreadsheets/d/1UMCJjRy7vWm
 - Martin Del Castillo Velasco-Herrera (<mdc1@sanger.ac.uk>)
 - Jesús René Wong (<rene.wong@helsinki.fi>)
 - Jacqueline Boccacino (<jb62@sanger.ac.uk>)
+- Rafaela Fagundes (<rf17@sanger.ac.uk>)
 - David J Adams (<da1@sanger.ac.uk>)
 - Carla Daniela Robles-Espinoza(<drobles@liigh.unam.mx>)
 - Patricia Possik (<ppossik@inca.gov.br>)

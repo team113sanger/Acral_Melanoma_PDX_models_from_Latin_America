@@ -13,3 +13,9 @@
 [submodule "WES"]
 	path = WES
 	url = git@github.com:team113sanger/Acral_Melanoma_PDX_models_LatAm_WES.git
+[submodule "DepMap"]
+	path = DepMap
+	url = https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_DepMap.git
+[submodule "Mixed_Analyses"]
+	path = Mixed_Analyses
+	url = https://github.com/team113sanger/Acral_Melanoma_PDX_mixed_analyses.git
