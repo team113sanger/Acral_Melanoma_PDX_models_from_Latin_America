@@ -10,3 +10,6 @@
 [submodule "RNAseq"]
 	path = RNAseq
 	url = git@github.com:team113sanger/Acral_Melanoma_PDX_models_LatAm_RNAseq.git
+[submodule "WES"]
+	path = WES
+	url = git@github.com:team113sanger/Acral_Melanoma_PDX_models_LatAm_WES.git
