@@ -19,3 +19,6 @@
 [submodule "Mixed_Analyses"]
 	path = Mixed_Analyses
 	url = https://github.com/team113sanger/Acral_Melanoma_PDX_mixed_analyses.git
+[submodule "Somatic_calling_figures"]
+	path = Somatic_calling_figures
+	url = git@github.com:team113sanger/Acral_Melanoma_Somatic_Calling_Figures.git

@@ -22,7 +22,8 @@ unzip bundle.zip
 | Filtering, processing, counting and QC analysis of the transcriptome sequencing data | `RNAseq` | (<mdc1@sanger.ac.uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_RNAseq) [Zenodo DOI Badge](#) | ❌ |
 | Somatic calling of SNVs, MNVs,and INDELs from WES DNA sequencing data | `WES` | (<mdc1@sanger.ac.uk>) <jb62@sanger.ac.uk> | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_WES) [Zenodo DOI Badge](#) | ❌ |
 | DepMap analysis of acral melanoma samples | `DepMap` | (<rf17@sanger.ac.uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_DepMap) [Zenodo DOI Badge](#) | ❌ |
-| Multiple different analyses of acral melanoma samples | `Multiple_analyses` | (<as81@sanger.ac.uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_mixed_analyses) [Zenodo DOI Badge](#) | ❌ |
+| Multiple different analyses of acral melanoma samples | `Mixed_analyses` | (<as81@sanger.ac.uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_mixed_analyses) [Zenodo DOI Badge](#) | ❌ |
+| Figures for somatic calling | `somatic_calling_figures` | (<as81@sanger.ac.uk)) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_Somatic_Calling_Figures) [Zenodo DOI Badge](#) | ❌ |
 
 
 ## Author checklist
