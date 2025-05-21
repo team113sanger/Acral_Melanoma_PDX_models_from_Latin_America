@@ -4,3 +4,6 @@
 [submodule "Hailstorm"]
 	path = Hailstorm
 	url = https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_Hailstorm.git
+[submodule "Heatmap_figures"]
+	path = Heatmap_figures
+	url = git@github.com:team113sanger/Acral_Melanoma_PDX_models_LatAm_Heatmap_Figures.git
