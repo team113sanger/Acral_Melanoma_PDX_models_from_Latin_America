@@ -19,7 +19,7 @@ unzip bundle.zip
 | MesKit analysis of acral melanoma  samples | `MesKit` |(<jb62@sanger.ac.uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_MesKit) [Zenodo DOI Badge](#) | ❌ |
 | Genomic hailstorm analysis of acral melanoma samples | `Hailstorm` | (<af31@sanger.ac.uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_Hailstorm) [Zenodo DOI Badge](#) | ❌ |
 | Molecular and functional profiling of acral melanoma samples | `Heatmap_figures` | (<af31@sanger.ac.uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_Heatmap_Figures) [Zenodo DOI Badge](#) | ❌ |
-
+| Filtering, processing, counting and QC analysis of the RNAseq sequencing data | `RNAseq` | (<mdc1@sanger.ac.uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_RNAseq) [Zenodo DOI Badge](#) | ❌ |
 
 
 ## Author checklist
