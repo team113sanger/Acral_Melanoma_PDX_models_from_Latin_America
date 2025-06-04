@@ -14,17 +14,17 @@ unzip bundle.zip
 
 ## Project Overview
 
-| Sub-analysis | Directory | Authors | Links | Checklist? |
-|--------------|-----------|---------|-------|------------|
-| MesKit analysis of Acral Melanoma samples | `MesKit` |(<jb62@sanger.ac.uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_MesKit) [Zenodo DOI Badge](#) | ❌ |
-| Genomic hailstorm analysis of Acral Melanoma samples | `Hailstorm` | (<af31@sanger.ac.uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_Hailstorm) [Zenodo DOI Badge](#) | ❌ |
-| Molecular and functional profiling of Acral Melanoma samples | `Heatmap_figures` | (<af31@sanger.ac.uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_Heatmap_Figures) [Zenodo DOI Badge](#) | ❌ |
-| Filtering, processing, counting and QC analysis of the transcriptome sequencing data | `RNAseq` | (<mdc1@sanger.ac.uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_RNAseq) [Zenodo DOI Badge](#) | ❌ |
-| Somatic calling of SNVs, MNVs,and INDELs from WES DNA sequencing data | `WES` | (<mdc1@sanger.ac.uk>) <jb62@sanger.ac.uk> | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_WES) [Zenodo DOI Badge](#) | ❌ |
-| DepMap analysis of Acral Melanoma samples | `DepMap` | (<rf17@sanger.ac.uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_DepMap) [Zenodo DOI Badge](#) | ❌ |
-| CRISPR driven analysis of shared vulnerabilities in Acral Melanoma cell lines |`Crispr_Shared_Hits` | (<rf17@sanger.ac.uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_Crispr_Shared_Hits) [Zenodo DOI Badge](#) | ❌ |
-| Multiple different analyses of Acral Melanoma samples | `Mixed_analyses` | (<as81@sanger.ac .uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_mixed_analyses) [Zenodo DOI Badge](#) | ❌ |
-| Figures for somatic calling | `somatic_calling_figures` | (<as81@sanger.ac.uk)) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_Somatic_Calling_Figures) [Zenodo DOI Badge](#) | ❌ |
+| Sub-analysis | Directory | Authors | GitHub | Zenodo | Checklist? |
+|--------------|-----------|---------|--------|---------|------------|
+| MesKit analysis of Acral Melanoma samples | `MesKit` | (<jb62@sanger.ac.uk>) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_MesKit) | [Zenodo DOI Badge](#) | ❌ |
+| Genomic hailstorm analysis of Acral Melanoma samples | `Hailstorm` | (<af31@sanger.ac.uk>) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_Hailstorm) | [Zenodo DOI Badge](#) | ❌ |
+| Molecular and functional profiling of Acral Melanoma samples | `Heatmap_figures` | (<af31@sanger.ac.uk>) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_Heatmap_Figures) | [Zenodo DOI Badge](#) | ❌ |
+| Filtering, processing, counting and QC analysis of the transcriptome sequencing data | `RNAseq` | (<mdc1@sanger.ac.uk>) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_RNAseq) | [Zenodo DOI Badge](#) | ❌ |
+| Somatic calling of SNVs, MNVs,and INDELs from WES DNA sequencing data | `WES` | (<mdc1@sanger.ac.uk>)<br>(<jb62@sanger.ac.uk>) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_WES) | [Zenodo DOI Badge](#) | ❌ |
+| DepMap analysis of Acral Melanoma samples | `DepMap` | (<rf17@sanger.ac.uk>) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_DepMap) | [Zenodo DOI Badge](#) | ❌ |
+| CRISPR driven analysis of shared vulnerabilities in Acral Melanoma cell lines | `Crispr_Shared_Hits` | (<rf17@sanger.ac.uk>) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_Crispr_Shared_Hits) | [Zenodo DOI Badge](#) | ❌ |
+| Multiple different analyses of Acral Melanoma samples | `Mixed_analyses` | (<as81@sanger.ac.uk>) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/team113sanger/Acral_Melanoma_PDX_mixed_analyses) | [Zenodo DOI Badge](#) | ❌ |
+| Figures for somatic calling | `somatic_calling_figures` | (<as81@sanger.ac.uk>) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/team113sanger/Acral_Melanoma_Somatic_Calling_Figures) | [Zenodo DOI Badge](#) | ❌ |
 
 
 ## Author checklist
