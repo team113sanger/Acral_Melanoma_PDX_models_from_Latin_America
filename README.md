@@ -24,7 +24,7 @@ unzip bundle.zip
 | DepMap analysis of Acral Melanoma samples | `DepMap` | (<rf17@sanger.ac.uk>) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_DepMap) | [Zenodo DOI Badge](#) | ❌ |
 | CRISPR driven analysis of shared vulnerabilities in Acral Melanoma cell lines | `Crispr_Shared_Hits` | (<rf17@sanger.ac.uk>) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_Crispr_Shared_Hits) | [Zenodo DOI Badge](#) | ❌ |
 | Multiple different analyses of Acral Melanoma samples | `Mixed_analyses` | (<as81@sanger.ac.uk>) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/team113sanger/Acral_Melanoma_PDX_mixed_analyses) | [Zenodo DOI Badge](#) | ❌ |
-| Figures for somatic calling | `somatic_calling_figures` | (<as81@sanger.ac.uk>) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/team113sanger/Acral_Melanoma_Somatic_Calling_Figures) | [Zenodo DOI Badge](#) | ❌ |
+| Figures for somatic calling | `Somatic_calling_figures` | (<as81@sanger.ac.uk>) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/team113sanger/Acral_Melanoma_Somatic_Calling_Figures) | [Zenodo DOI Badge](#) | ❌ |
 
 
 ## Author checklist
