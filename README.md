@@ -28,7 +28,7 @@ unzip bundle.zip
 | CNA, STAR-Fusion and Signature analysis of Acral Melanoma samples | `CNA_Fusions_Signatures` | (<rene.wong@helsinki.fi>) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/JReneWong/AcralMelanoma_CNVs-FusionTranscripts-MutSigns) | [Zenodo DOI Badge](#) | ❌ |
 
 ## Author checklist
-As the author of a sub-analysis, I have checked the checklist below.
+As the author of a sub-analysis, I have checked the checklist below. This block & the checklist column will be removed once all items are completed.
 
 See [Checklist Google Sheet](https://docs.google.com/spreadsheets/d/1UMCJjRy7vWmuTq3qGdkLeqAc6xG7Co7YrJq9wKTADXU/edit?gid=0#gid=0) for more tracking progress.
 
