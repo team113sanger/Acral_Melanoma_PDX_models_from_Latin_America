@@ -22,3 +22,6 @@
 [submodule "Somatic_calling_figures"]
 	path = Somatic_calling_figures
 	url = git@github.com:team113sanger/Acral_Melanoma_Somatic_Calling_Figures.git
+[submodule "Crispr_Shared_Hits"]
+	path = Crispr_Shared_Hits
+	url = git@github.com:team113sanger/Acral_Melanoma_PDX_models_LatAm_Crispr_Shared_Hits.git

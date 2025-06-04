@@ -2,7 +2,7 @@
 
 This repository serves as the central landing page for multiple sub-analyses related to the manuscript:
 
-> **_Comprehensive molecular and functional characterization of brazilian acral melanoma reveals aberrant genetic landscape and therapeutic vulnerabilities_**
+> **_Comprehensive molecular and functional characterization of brazilian Acral Melanoma reveals aberrant genetic landscape and therapeutic vulnerabilities_**
 
 The analyses were conducted by several authors in the Possik, Robles-Espinoza and Adams groups. Each sub-analysis repository linked below contains its own **README.md** with details of the methods, code, and data required for reproducing the results. Large files and figures from the paper can be accessed at the corresponding [FigShare for the project]()
 
@@ -16,13 +16,14 @@ unzip bundle.zip
 
 | Sub-analysis | Directory | Authors | Links | Checklist? |
 |--------------|-----------|---------|-------|------------|
-| MesKit analysis of acral melanoma samples | `MesKit` |(<jb62@sanger.ac.uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_MesKit) [Zenodo DOI Badge](#) | ❌ |
-| Genomic hailstorm analysis of acral melanoma samples | `Hailstorm` | (<af31@sanger.ac.uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_Hailstorm) [Zenodo DOI Badge](#) | ❌ |
-| Molecular and functional profiling of acral melanoma samples | `Heatmap_figures` | (<af31@sanger.ac.uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_Heatmap_Figures) [Zenodo DOI Badge](#) | ❌ |
+| MesKit analysis of Acral Melanoma samples | `MesKit` |(<jb62@sanger.ac.uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_MesKit) [Zenodo DOI Badge](#) | ❌ |
+| Genomic hailstorm analysis of Acral Melanoma samples | `Hailstorm` | (<af31@sanger.ac.uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_Hailstorm) [Zenodo DOI Badge](#) | ❌ |
+| Molecular and functional profiling of Acral Melanoma samples | `Heatmap_figures` | (<af31@sanger.ac.uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_Heatmap_Figures) [Zenodo DOI Badge](#) | ❌ |
 | Filtering, processing, counting and QC analysis of the transcriptome sequencing data | `RNAseq` | (<mdc1@sanger.ac.uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_RNAseq) [Zenodo DOI Badge](#) | ❌ |
 | Somatic calling of SNVs, MNVs,and INDELs from WES DNA sequencing data | `WES` | (<mdc1@sanger.ac.uk>) <jb62@sanger.ac.uk> | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_WES) [Zenodo DOI Badge](#) | ❌ |
-| DepMap analysis of acral melanoma samples | `DepMap` | (<rf17@sanger.ac.uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_DepMap) [Zenodo DOI Badge](#) | ❌ |
-| Multiple different analyses of acral melanoma samples | `Mixed_analyses` | (<as81@sanger.ac.uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_mixed_analyses) [Zenodo DOI Badge](#) | ❌ |
+| DepMap analysis of Acral Melanoma samples | `DepMap` | (<rf17@sanger.ac.uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_DepMap) [Zenodo DOI Badge](#) | ❌ |
+| CRISPR driven analysis of shared vulnerabilities in Acral Melanoma cell lines |`Crispr_Shared_Hits` | (<rf17@sanger.ac.uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_Crispr_Shared_Hits) [Zenodo DOI Badge](#) | ❌ |
+| Multiple different analyses of Acral Melanoma samples | `Mixed_analyses` | (<as81@sanger.ac .uk>) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_PDX_mixed_analyses) [Zenodo DOI Badge](#) | ❌ |
 | Figures for somatic calling | `somatic_calling_figures` | (<as81@sanger.ac.uk)) | [GitHub repository](https://github.com/team113sanger/Acral_Melanoma_Somatic_Calling_Figures) [Zenodo DOI Badge](#) | ❌ |
 
 
