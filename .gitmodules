@@ -25,3 +25,6 @@
 [submodule "Crispr_Shared_Hits"]
 	path = Crispr_Shared_Hits
 	url = git@github.com:team113sanger/Acral_Melanoma_PDX_models_LatAm_Crispr_Shared_Hits.git
+[submodule "CNA_Fusions_Signatures"]
+	path = CNA_Fusions_Signatures
+	url = git@github.com:JReneWong/AcralMelanoma_CNVs-FusionTranscripts-MutSigns.git

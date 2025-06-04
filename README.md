@@ -25,7 +25,7 @@ unzip bundle.zip
 | CRISPR driven analysis of shared vulnerabilities in Acral Melanoma cell lines | `Crispr_Shared_Hits` | (<rf17@sanger.ac.uk>) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_Crispr_Shared_Hits) | [Zenodo DOI Badge](#) | ❌ |
 | Multiple different analyses of Acral Melanoma samples | `Mixed_analyses` | (<as81@sanger.ac.uk>) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/team113sanger/Acral_Melanoma_PDX_mixed_analyses) | [Zenodo DOI Badge](#) | ❌ |
 | Figures for somatic calling | `Somatic_calling_figures` | (<as81@sanger.ac.uk>) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/team113sanger/Acral_Melanoma_Somatic_Calling_Figures) | [Zenodo DOI Badge](#) | ❌ |
-
+| CNA, STAR-Fusion and Signature analysis of Acral Melanoma samples | `CNA_Fusions_Signatures` | (<rene.wong@helsinki.fi>) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/JReneWong/AcralMelanoma_CNVs-FusionTranscripts-MutSigns) | [Zenodo DOI Badge](#) | ❌ |
 
 ## Author checklist
 As the author of a sub-analysis, I have checked the checklist below.
@@ -41,6 +41,7 @@ See [Checklist Google Sheet](https://docs.google.com/spreadsheets/d/1UMCJjRy7vWm
 - Jesús René Wong (<rene.wong@helsinki.fi>)
 - Jacqueline Boccacino (<jb62@sanger.ac.uk>)
 - Rafaela Fagundes (<rf17@sanger.ac.uk>)
+- Rene Wong Ramirez (<rene.wong@helsinki.fi>)
 - David J Adams (<da1@sanger.ac.uk>)
 - Carla Daniela Robles-Espinoza(<drobles@liigh.unam.mx>)
 - Patricia Possik (<ppossik@inca.gov.br>)
