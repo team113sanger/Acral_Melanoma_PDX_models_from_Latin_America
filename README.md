@@ -21,6 +21,7 @@ unzip bundle.zip
 | Molecular and functional profiling of Acral Melanoma samples | `Heatmap_figures` | (<af31@sanger.ac.uk>) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_Heatmap_Figures) | [Zenodo DOI Badge](#) | ❌ |
 | Filtering, processing, counting and QC analysis of the transcriptome sequencing data | `RNAseq` | (<mdc1@sanger.ac.uk>) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_RNAseq) | [Zenodo DOI Badge](#) | ❌ |
 | Somatic calling of SNVs, MNVs,and INDELs from WES DNA sequencing data | `WES` | (<mdc1@sanger.ac.uk>)<br>(<jb62@sanger.ac.uk>) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_WES) | [Zenodo DOI Badge](#) | ❌ |
+| Generation of BAGEL essentiality scores for cell lines in the latest version of DepMap (24Q4) | `DepMap_Resource` | (<jb63@sanger.ac.uk>) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/team113sanger/acral_melanoma_depmap_pancaner_resource) | [Zenodo DOI Badge](#) | ❌ |
 | DepMap analysis of Acral Melanoma samples | `DepMap` | (<rf17@sanger.ac.uk>) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_DepMap) | [Zenodo DOI Badge](#) | ❌ |
 | CRISPR driven analysis of shared vulnerabilities in Acral Melanoma cell lines | `Crispr_Shared_Hits` | (<rf17@sanger.ac.uk>) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_Crispr_Shared_Hits) | [Zenodo DOI Badge](#) | ❌ |
 | Multiple different analyses of Acral Melanoma samples | `Mixed_analyses` | (<as81@sanger.ac.uk>) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/team113sanger/Acral_Melanoma_PDX_mixed_analyses) | [Zenodo DOI Badge](#) | ❌ |
@@ -40,6 +41,7 @@ See [Checklist Google Sheet](https://docs.google.com/spreadsheets/d/1UMCJjRy7vWm
 - Martin Del Castillo Velasco-Herrera (<mdc1@sanger.ac.uk>)
 - Jesús René Wong (<rene.wong@helsinki.fi>)
 - Jacqueline Boccacino (<jb62@sanger.ac.uk>)
+- Jamie Billington (<jb63@sanger.ac.uk>)
 - Rafaela Fagundes (<rf17@sanger.ac.uk>)
 - Rene Wong Ramirez (<rene.wong@helsinki.fi>)
 - David J Adams (<da1@sanger.ac.uk>)

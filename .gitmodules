@@ -28,3 +28,6 @@
 [submodule "CNA_Fusions_Signatures"]
 	path = CNA_Fusions_Signatures
 	url = git@github.com:JReneWong/AcralMelanoma_CNVs-FusionTranscripts-MutSigns.git
+[submodule "DepMap_Resource"]
+	path = DepMap_Resource
+	url = git@github.com:team113sanger/acral_melanoma_depmap_pancaner_resource.git
