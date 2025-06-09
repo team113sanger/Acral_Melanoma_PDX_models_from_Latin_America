@@ -24,8 +24,8 @@ unzip bundle.zip
 | Generation of BAGEL essentiality scores for cell lines in the latest version of DepMap (24Q4) | `DepMap_Resource` | (<jb63@sanger.ac.uk>) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/team113sanger/acral_melanoma_depmap_pancaner_resource) | [Zenodo DOI Badge](#) | ❌ |
 | DepMap analysis of Acral Melanoma samples | `DepMap` | (<rf17@sanger.ac.uk>) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_DepMap) | [Zenodo DOI Badge](#) | ❌ |
 | CRISPR driven analysis of shared vulnerabilities in Acral Melanoma cell lines | `Crispr_Shared_Hits` | (<rf17@sanger.ac.uk>) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/team113sanger/Acral_Melanoma_PDX_models_LatAm_Crispr_Shared_Hits) | [Zenodo DOI Badge](#) | ❌ |
-| Multiple different analyses of Acral Melanoma samples | `Mixed_analyses` | (<as81@sanger.ac.uk>) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/team113sanger/Acral_Melanoma_PDX_mixed_analyses) | [Zenodo DOI Badge](#) | ❌ |
-| Figures for somatic calling | `Somatic_calling_figures` | (<as81@sanger.ac.uk>) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/team113sanger/Acral_Melanoma_Somatic_Calling_Figures) | [Zenodo DOI Badge](#) | ❌ |
+| Multiple different analyses of Acral Melanoma samples | `Mixed_analyses` | (<annie.sousa@ensino.inca.gov.br>) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/team113sanger/Acral_Melanoma_PDX_mixed_analyses) | [Zenodo DOI Badge](#) | ❌ |
+| Figures for somatic calling | `Somatic_calling_figures` | (<annie.sousa@ensino.inca.gov.br>) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/team113sanger/Acral_Melanoma_Somatic_Calling_Figures) | [Zenodo DOI Badge](#) | ❌ |
 | CNA, STAR-Fusion and Signature analysis of Acral Melanoma samples | `CNA_Fusions_Signatures` | (<rene.wong@helsinki.fi>) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/JReneWong/AcralMelanoma_CNVs-FusionTranscripts-MutSigns) | [Zenodo DOI Badge](#) | ❌ |
 
 ## Author checklist
@@ -35,7 +35,7 @@ See [Checklist Google Sheet](https://docs.google.com/spreadsheets/d/1UMCJjRy7vWm
 
 
 ## Contact 
-- Annie Cristhine Sousa Squiavinato (<as81@sanger.ac.uk>)
+- Annie Cristhine Sousa Squiavinato (<annie.sousa@ensino.inca.gov.br>)
 - Antonio Facciolo (<af31@sanger.ac.uk>)
 - Patricia Basurto Lozada (<pbasurto@liigh.unam.mx>)
 - Martin Del Castillo Velasco-Herrera (<mdc1@sanger.ac.uk>)
