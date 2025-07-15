@@ -31,3 +31,6 @@
 [submodule "DepMap_Resource"]
 	path = DepMap_Resource
 	url = git@github.com:team113sanger/acral_melanoma_depmap_pancaner_resource.git
+[submodule "SingleCell_RNAseq"]
+	path = SingleCell_RNAseq
+	url = git@github.com:Pedrosrb/scRNA_analysis.git
