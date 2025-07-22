@@ -57,7 +57,7 @@ The data used in this project is available at the European Genome-phenome Archiv
 | EGA Accession ID | Description | Sequence Type | Xenofiltered? |
 |------------------|-------------|----------------|----------------|
 | EGAS00001005663  | PDX models from Latin America | Whole Exome | No |
-| EGAS00001008150  | PDX models from Latin America | RNAseq | | No |
+| EGAS00001008150  | PDX models from Latin America | RNAseq | No |
 | EGAS00001008230  | CRISPR Screening of Brazilian Acral Melanoma Cell Lines | CRISPR KO | No |
 | EGAS00001008231  | PDX models from Latin America | Whole Exome | Yes |
 | EGAS00001008232  | PDX models from Latin America | RNAseq | Yes |
