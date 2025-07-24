@@ -31,10 +31,6 @@ unzip bundle2.zip
 | CNA, STAR-Fusion and Signature analysis of Acral Melanoma samples                    | `CNA_Fusions_Signatures`<br>(<rene.wong@helsinki.fi>)           | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/JReneWong/AcralMelanoma_CNVs-FusionTranscripts-MutSigns)          | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16412737.svg)](https://doi.org/10.5281/zenodo.16412737)                                                                                       |
 | Single cell RNA sequencing analysis of Acral Melanoma samples                        | `SingleCell_RNAseq`<br>(<pedrosodrerb@gmail.com>)               | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/Pedrosrb/scRNA_analysis)                                          | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16412785.svg)](https://doi.org/10.5281/zenodo.16412785)                                                                                      |
 
-## Author checklist
-As the author of a sub-analysis, I have checked the checklist below. This block & the checklist column will be removed once all items are completed.
-
-See [Checklist Google Sheet](https://docs.google.com/spreadsheets/d/1UMCJjRy7vWmuTq3qGdkLeqAc6xG7Co7YrJq9wKTADXU/edit?gid=0#gid=0) for more tracking progress.
 
 ## Contact 
 - Annie Cristhine Sousa Squiavinato (<annie.sousa@ensino.inca.gov.br>)
