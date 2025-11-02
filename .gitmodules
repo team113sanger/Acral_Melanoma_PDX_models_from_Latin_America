@@ -34,3 +34,6 @@
 [submodule "SingleCell_RNAseq"]
 	path = SingleCell_RNAseq
 	url = git@github.com:Pedrosrb/scRNA_analysis.git
+[submodule "Crispr_Screens"]
+	path = Crispr_Screens
+	url = git@github.com:team113sanger/acral_melanoma_genome_wide_crispr_screens.git
