@@ -15,6 +15,15 @@ unzip bundle1.zip
 unzip bundle2.zip
 ```
 
+## Cloning all submodules
+
+This repository contains multiple submodules for each sub-analysis. To clone all submodules, use the following command:
+
+```bash
+git clone --recurse-submodules https://github.com/team113sanger/Acral_Melanoma_PDX_models_from_Latin_America.git
+```
+
+
 ## Project Overview
 | Sub-analysis                                                                         | Directory & Authors                                             | GitHub                                                                                                                                                                          | DOI                                                                                                         |
 |--------------------------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
@@ -31,12 +40,14 @@ unzip bundle2.zip
 | Figures for somatic calling                                                          | `Somatic_calling_figures`<br>(<annie.sousa@ensino.inca.gov.br>) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/team113sanger/Acral_Melanoma_Somatic_Calling_Figures)             | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16412888.svg)](https://doi.org/10.5281/zenodo.16412888)                                                                                       |
 | CNA, STAR-Fusion and Signature analysis of Acral Melanoma samples                    | `CNA_Fusions_Signatures`<br>(<rene.wong@helsinki.fi>)           | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/JReneWong/AcralMelanoma_CNVs-FusionTranscripts-MutSigns)          | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16412737.svg)](https://doi.org/10.5281/zenodo.16412737)                                                                                       |
 | Single cell RNA sequencing analysis of Acral Melanoma samples                        | `SingleCell_RNAseq`<br>(<pedrosodrerb@gmail.com>)               | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/Pedrosrb/scRNA_analysis)                                          | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16412785.svg)](https://doi.org/10.5281/zenodo.16412785)                                                                                      |
+| Genetic ancestry analysis of Acral Melanoma samples using PCA and ADMIXTURE          | `Genetic_ancestry`<br>(<isimonin@liigh.unam.mx>)               | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/CGBio-Lab/Acral_Melanoma_PDX_Ancestry)                                          | -                                                                                      |
 
 
 ## Contact 
 - Annie Cristhine Sousa Squiavinato (<annie.sousa@ensino.inca.gov.br>)
 - Antonio Facciolo (<af31@sanger.ac.uk>)
 - Patricia Basurto Lozada (<pbasurto@liigh.unam.mx>)
+- Irving Simonin (<isimonin@liigh.unam.mx>)
 - Martin Del Castillo Velasco-Herrera (<mdc1@sanger.ac.uk>)
 - Ishan Mehta (<im13@sanger.ac.uk>)
 - Jesús René Wong (<rene.wong@helsinki.fi>)
