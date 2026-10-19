@@ -37,3 +37,6 @@
 [submodule "Crispr_Screens"]
 	path = Crispr_Screens
 	url = git@github.com:team113sanger/acral_melanoma_genome_wide_crispr_screens.git
+[submodule "Genetic_ancestry"]
+	path = Genetic_ancestry
+	url = git@github.com:CGBio-Lab/Acral_Melanoma_PDX_Ancestry.git
