@@ -40,3 +40,6 @@
 [submodule "Genetic_ancestry"]
 	path = Genetic_ancestry
 	url = git@github.com:CGBio-Lab/Acral_Melanoma_PDX_Ancestry.git
+[submodule "Splicing"]
+	path = Splicing
+	url = git@github.com:msalpe/Acral_Melanoma_Cell_Lines_Splicing_Analysis.git
