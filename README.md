@@ -1,18 +1,16 @@
-# Acral Melanoma - PDX models from Latin America
+# Modelling Acral Melanoma in Admixed Brazilians Uncovers Genomic Drivers and Targetable Pathways
 
 This repository serves as the central landing page for multiple sub-analyses related to the manuscript:
 
 > **_Comprehensive molecular and functional characterization of brazilian Acral Melanoma reveals aberrant genetic landscape and therapeutic vulnerabilities_**
 
-The analyses were conducted by several authors in the Possik, Robles-Espinoza and Adams groups. Each sub-analysis repository linked below contains its own **README.md** with details of the methods, code, and data required for reproducing the results. Large files and figures from the paper can be accessed at the corresponding [FigShare for the project](https://figshare.com/account/home#/projects/249119).
+The analyses were conducted by several authors in the Possik, Robles-Espinoza and Adams groups. Each sub-analysis repository linked below contains its own **README.md** with details of the methods, code, and data required for reproducing the results. Large files and figures from the paper can be accessed at the corresponding [FigShare for the project](https://figshare.com/articles/dataset/Sequenza_segmentation_output_files/34745433).
 
-Users can download any datasets from Figshare with: 
+Users can download our dataset from Figshare with: 
 
 ```bash
-curl -k -o bundle1.zip https://figshare.com/ndownloader/files/54688241
-curl -k -o bundle2.zip https://figshare.com/ndownloader/files/54607436
-unzip bundle1.zip
-unzip bundle2.zip
+curl -fL -o segments.zip 'https://api.figshare.com/v2/articles/34745433/versions/1/download?folder_path=segments'
+unzip segments.zip
 ```
 
 ## Cloning all submodules
@@ -39,7 +37,7 @@ git clone --recurse-submodules https://github.com/team113sanger/Acral_Melanoma_P
 | Multiple different analyses of Acral Melanoma samples                                | `Mixed_analyses`<br>(<annie.sousa@ensino.inca.gov.br>)          | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/team113sanger/Acral_Melanoma_PDX_mixed_analyses)                  | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16412634.svg)](https://doi.org/10.5281/zenodo.16412634)                                                                                       |
 | Figures for somatic calling                                                          | `Somatic_calling_figures`<br>(<annie.sousa@ensino.inca.gov.br>) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/team113sanger/Acral_Melanoma_Somatic_Calling_Figures)             | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16412888.svg)](https://doi.org/10.5281/zenodo.16412888)                                                                                       |
 | CNA, STAR-Fusion & Signature analysis of Acral Melanoma samples                    | `CNA_Fusions_Signatures`<br>(<rene.wong@helsinki.fi>)           | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/JReneWong/AcralMelanoma_CNVs-FusionTranscripts-MutSigns)          | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16412737.svg)](https://doi.org/10.5281/zenodo.16412737)                                                                                       |
-| Single cell RNA sequencing analysis of Acral Melanoma samples                        | `SingleCell_RNAseq`<br>(<pedrosodrerb@gmail.com>)               | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/Pedrosrb/scRNA_analysis)                                          | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16412785.svg)](https://doi.org/10.5281/zenodo.16412785)                                                                                      |
+| Single cell RNA sequencing analysis of Acral Melanoma samples                        | `SingleCell_RNAseq`<br>(<pedro.barros@ensino.inca.gov.br>)               | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/Pedrosrb/scRNA_analysis)                                          | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16412785.svg)](https://doi.org/10.5281/zenodo.16412785)                                                                                      |
 | Genetic ancestry analysis of Acral Melanoma samples using PCA and ADMIXTURE          | `Genetic_ancestry`<br>(<isimonin@liigh.unam.mx>)               | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/CGBio-Lab/Acral_Melanoma_PDX_Ancestry)                                          | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23553257.svg)](https://doi.org/10.5281/zenodo.23553257) |
 | Differential expression & splicing analysis following SF3B4 depletion | `Splicing`<br>(<monica.salinas@crg.eu>) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/msalpe/Acral_Melanoma_Cell_Lines_Splicing_Analysis) | - |
 
@@ -56,7 +54,7 @@ git clone --recurse-submodules https://github.com/team113sanger/Acral_Melanoma_P
 - Jamie Billington (<jb63@sanger.ac.uk>)
 - Rafaela Fagundes (<rf17@sanger.ac.uk>)
 - Rene Wong Ramirez (<rene.wong@helsinki.fi>)
-- Pedro Sodré (<pedrosodrerb@gmail.com>)
+- Pedro Sodré (<pedro.barros@ensino.inca.gov.br>)
 - David J Adams (<da1@sanger.ac.uk>)
 - Carla Daniela Robles-Espinoza(<drobles@liigh.unam.mx>)
 - Patricia Possik (<ppossik@inca.gov.br>)
