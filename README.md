@@ -4,7 +4,7 @@ This repository serves as the central landing page for multiple sub-analyses rel
 
 > **_Modelling Acral Melanoma in Admixed Brazilians Uncovers Genomic Drivers and Targetable Pathways_**
 
-The analyses were conducted by several authors in the Possik, Robles-Espinoza and Adams groups. Each sub-analysis repository linked below contains its own **README.md** with details of the methods, code, and data required for reproducing the results. Large files and figures from the paper can be accessed at the corresponding [FigShare for the project](https://figshare.com/account/projects/249119/articles/34745433](https://doi.org/10.6084/m9.figshare.34745433).
+The analyses were conducted by several authors in the Possik, Robles-Espinoza and Adams groups. Each sub-analysis repository linked below contains its own **README.md** with details of the methods, code, and data required for reproducing the results. Large files and figures from the paper can be accessed at the corresponding [FigShare for the project](https://doi.org/10.6084/m9.figshare.34745433).
 
 
 Users can download our dataset from Figshare with: 
